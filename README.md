@@ -1,12 +1,12 @@
 <!-- Palette: Midnight #0f172a · Teal #2dd4bf · Indigo #818cf8 · Slate #8b949e -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:0d9488&height=220&section=header&text=Muhammad%20Waqas&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Explainable%20AI&descSize=18&descColor=99f6e4&descAlignY=58" width="100%" alt="Muhammad Waqas banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:0d9488&height=220&section=header&text=Muhammad%20Waqas&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Explainable%20AI&descSize=18&descColor=99f6e4&descAlignY=58" width="100%" alt="Muhammad Waqas, AI Engineer specializing in computer vision and explainable AI" />
 </p>
 
 <p align="center">
   <a href="https://github.com/muhammadwaqas1564">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Building+AI+you+can+actually+verify;Explainable+AI+for+medical+imaging;Vision-language+models+%26+agentic+workflows;Edge+computer+vision+in+production" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Building+AI+you+can+actually+verify;Explainable+AI+for+medical+imaging;Vision-language+models+%26+agentic+workflows;Edge+computer+vision+in+production" alt="Muhammad Waqas builds explainable AI for medical imaging, vision-language models, agentic workflows and edge computer vision" />
   </a>
 </p>
 
@@ -19,7 +19,9 @@
 
 <br/>
 
-## `who am i`
+## `whoami`
+
+I'm Muhammad Waqas, an AI engineer and machine learning research engineer based in Islamabad, Pakistan. I build explainable AI for medical imaging, computer vision systems, vision-language models and agentic AI workflows. I work at ITSOLERA and hold an MS in Artificial Intelligence from FAST-NUCES.
 
 ```python
 class MuhammadWaqas:
