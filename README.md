@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Muhammad Waqas - AI Engineer Banner" width="100%" />
+  <img src="./assets/banner.jpg" alt="Muhammad Waqas - AI Engineer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Muhammad Waqas 👋</h1>
