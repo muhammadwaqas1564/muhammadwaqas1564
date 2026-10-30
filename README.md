@@ -19,7 +19,7 @@
 
 <br/>
 
-## `who am i`
+## `whoami`
 
 ```python
 class MuhammadWaqas:
@@ -48,30 +48,26 @@ class MuhammadWaqas:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/muhammadwaqas1564/xai-medical-image-classification">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadwaqas1564&repo=xai-medical-image-classification&theme=transparent&title_color=2dd4bf&text_color=8b949e&icon_color=818cf8&border_color=1e293b" width="100%" alt="xai-medical-image-classification" />
-      </a>
-      <sub>Attention decoders + quantitative saliency metrics for diagnostics you can audit.</sub>
+      <h4><a href="https://github.com/muhammadwaqas1564/xai-medical-image-classification">XAI Medical Image Classification</a></h4>
+      <p>Attention decoders and quantitative saliency metrics for diagnostics you can audit.</p>
+      <img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=2dd4bf" alt="PyTorch" /> <img src="https://img.shields.io/badge/XAI-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="XAI" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/muhammadwaqas1564/HuggingFace_SWIN_Transformer_Encoder_and_BERT_Decoder_Model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadwaqas1564&repo=HuggingFace_SWIN_Transformer_Encoder_and_BERT_Decoder_Model&theme=transparent&title_color=2dd4bf&text_color=8b949e&icon_color=818cf8&border_color=1e293b" width="100%" alt="SWIN + BERT captioning" />
-      </a>
-      <sub>Image captioning: SWIN visual encoder paired with a BERT language decoder.</sub>
+      <h4><a href="https://github.com/muhammadwaqas1564/HuggingFace_SWIN_Transformer_Encoder_and_BERT_Decoder_Model">SWIN + BERT Image Captioning</a></h4>
+      <p>Vision-language model pairing a SWIN visual encoder with a BERT language decoder.</p>
+      <img src="https://img.shields.io/badge/Transformers-0f172a?style=flat-square&logo=huggingface&logoColor=2dd4bf" alt="Transformers" /> <img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=2dd4bf" alt="PyTorch" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/muhammadwaqas1564/Real-Time-License-Plate-Recognition-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadwaqas1564&repo=Real-Time-License-Plate-Recognition-System&theme=transparent&title_color=2dd4bf&text_color=8b949e&icon_color=818cf8&border_color=1e293b" width="100%" alt="Real-Time ALPR" />
-      </a>
-      <sub>Real-time ALPR for traffic analytics and toll management.</sub>
+      <h4><a href="https://github.com/muhammadwaqas1564/Real-Time-License-Plate-Recognition-System">Real-Time License Plate Recognition</a></h4>
+      <p>ALPR for traffic analytics and toll management.</p>
+      <img src="https://img.shields.io/badge/YOLO-0f172a?style=flat-square&logo=ultralytics&logoColor=2dd4bf" alt="YOLO" /> <img src="https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=2dd4bf" alt="OpenCV" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/muhammadwaqas1564/Smart-Human-Activity-Recognition-HAR-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadwaqas1564&repo=Smart-Human-Activity-Recognition-HAR-System&theme=transparent&title_color=2dd4bf&text_color=8b949e&icon_color=818cf8&border_color=1e293b" width="100%" alt="Human Activity Recognition" />
-      </a>
-      <sub>Spatio-temporal deep learning for action and posture recognition from video.</sub>
+      <h4><a href="https://github.com/muhammadwaqas1564/Smart-Human-Activity-Recognition-HAR-System">Human Activity Recognition</a></h4>
+      <p>Spatio-temporal deep learning for action and posture recognition from video.</p>
+      <img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=2dd4bf" alt="PyTorch" /> <img src="https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=2dd4bf" alt="OpenCV" />
     </td>
   </tr>
 </table>
@@ -144,15 +140,6 @@ class MuhammadWaqas:
 | [Ecommerce-Competitive-Model-Price-Prediction](https://github.com/muhammadwaqas1564/Ecommerce-Competitive-Model-Price-Prediction) | Competitive pricing prediction for e-commerce |
 
 </details>
-
-<br/>
-
-## `activity`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadwaqas1564&show_icons=true&hide_border=true&bg_color=0f172a&title_color=2dd4bf&text_color=cbd5e1&icon_color=818cf8&ring_color=2dd4bf" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwaqas1564&layout=compact&hide_border=true&bg_color=0f172a&title_color=2dd4bf&text_color=cbd5e1" height="165" alt="Top languages" />
-</p>
 
 <br/>
 
