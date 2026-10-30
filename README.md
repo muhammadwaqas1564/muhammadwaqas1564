@@ -74,6 +74,54 @@ class MuhammadWaqas:
 
 <br/>
 
+## `research`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔬 Explainable AI for Medical Imaging</h4>
+      <p>Can a model's explanation be measured instead of eyeballed? Attention decoders evaluated with quantitative saliency metrics, not just heatmaps.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 Multimodal Vision-Language Models</h4>
+      <p>How vision encoders and language decoders align, with SWIN and BERT captioning as the working testbed.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Agentic & Human-in-the-Loop Systems</h4>
+      <p>Multi-agent workflows and evaluation loops where a human stays in control of the decision.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Efficient Vision at the Edge</h4>
+      <p>Keeping detection and recognition accurate under real-time and hardware constraints.</p>
+    </td>
+  </tr>
+</table>
+
+<!--
+  PUBLICATIONS: uncomment and fill in ONLY with real, citable work.
+  Delete this whole block if you have none yet.
+
+<details open>
+<summary><b>📄 Publications</b></summary>
+<br/>
+
+| Year | Title | Venue | Links |
+|---|---|---|---|
+| 2025 | Paper title here | Journal / Conference | [Paper](URL) · [Code](URL) |
+
+</details>
+
+<p>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-0f172a?style=flat-square&logo=googlescholar&logoColor=2dd4bf" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/YOUR_ORCID"><img src="https://img.shields.io/badge/ORCID-0f172a?style=flat-square&logo=orcid&logoColor=818cf8" alt="ORCID" /></a>
+  <a href="https://www.researchgate.net/profile/YOUR_NAME"><img src="https://img.shields.io/badge/ResearchGate-0f172a?style=flat-square&logo=researchgate&logoColor=2dd4bf" alt="ResearchGate" /></a>
+</p>
+-->
+
+<br/>
+
 ## `all_projects`
 
 <details>
