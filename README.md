@@ -72,6 +72,18 @@ class MuhammadWaqas:
       <img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=2dd4bf" alt="PyTorch" /> <img src="https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=2dd4bf" alt="OpenCV" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet">SpaceMolt Autonomous Fleet</a></h4>
+      <p>Multi-agent system that plays a live MMO: an LLM coordinator delegates to mining and trading agents over A2A, acts through authenticated MCP, and survives crashes without replaying a single action.</p>
+      <img src="https://img.shields.io/badge/A2A-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="A2A" /> <img src="https://img.shields.io/badge/MCP-0f172a?style=flat-square&logo=anthropic&logoColor=2dd4bf" alt="MCP" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/muhammadwaqas1564/research-experiment-manager">Research Experiment Manager</a></h4>
+      <p>Agentic assistant for ML experiments: recovers missing metrics from saved predictions, compares against a baseline and proposes the next run. The LLM ranks; Python computes every number.</p>
+      <img src="https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=2dd4bf" alt="Streamlit" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" /> <img src="https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=2dd4bf" alt="SQLite" />
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -178,11 +190,13 @@ class MuhammadWaqas:
 </details>
 
 <details>
-<summary><b>⚡ Agentic AI, MLOps & Analytics</b> &nbsp;·&nbsp; 5 repos</summary>
+<summary><b>⚡ Agentic AI, MLOps & Analytics</b> &nbsp;·&nbsp; 7 repos</summary>
 <br/>
 
 | Project | What it does |
 |---|---|
+| [spacemolt-autonomous-fleet](https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet) | LLM coordinator + mining and trading agents over A2A, playing a live MMO through MCP with crash-safe memory |
+| [research-experiment-manager](https://github.com/muhammadwaqas1564/research-experiment-manager) | Agentic ML experiment registry: metric recovery, baseline comparison, next-run proposals |
 | [Agentic-AI-Course](https://github.com/muhammadwaqas1564/Agentic-AI-Course) | Multi-agent and agentic workflow implementations |
 | [humaniflow-ai](https://github.com/muhammadwaqas1564/humaniflow-ai) | Human-in-the-loop orchestration and evaluation loops |
 | [MLAnalyzer-Pro](https://github.com/muhammadwaqas1564/MLAnalyzer-Pro) | Dataset profiling, feature importance, model validation |
