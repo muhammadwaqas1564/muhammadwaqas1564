@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/muhammadwaqas1564">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Building+AI+you+can+actually+verify;Explainable+AI+for+medical+imaging;Vision-language+models+%26+agentic+workflows;Edge+computer+vision+in+production" alt="Muhammad Waqas builds explainable AI for medical imaging, vision-language models, agentic workflows and edge computer vision" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Building+AI+you+can+actually+verify;Explainable+AI+for+medical+imaging;Vision-language+models+%26+agentic+workflows;Edge+computer+vision+in+production;Catching+data+leakage+before+it+ships" alt="Muhammad Waqas builds explainable AI for medical imaging, vision-language models, agentic workflows and edge computer vision" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-waqas-3b7122257"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=818cf8" alt="Email" /></a>
+  <a href="mailto:muhammadwaqas.1564@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=818cf8" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-0f172a?style=flat-square&logo=googlemaps&logoColor=2dd4bf" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to%20collaboration-134e4a?style=flat-square&logo=handshake&logoColor=99f6e4" alt="Open to collaboration" />
 </p>
@@ -82,6 +82,13 @@ class MuhammadWaqas:
       <h4><a href="https://github.com/muhammadwaqas1564/research-experiment-manager">Research Experiment Manager</a></h4>
       <p>Agentic assistant for ML experiments: recovers missing metrics from saved predictions, compares against a baseline and proposes the next run. The LLM ranks; Python computes every number.</p>
       <img src="https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=2dd4bf" alt="Streamlit" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" /> <img src="https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=2dd4bf" alt="SQLite" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4><a href="https://github.com/muhammadwaqas1564/ml-experiment-reviewer">ML Experiment Reviewer</a></h4>
+      <p>Finds the bugs that silently inflate ML results: data leakage, train/test contamination, SMOTE before the split, misleading metrics and PyTorch mistakes, in scripts and notebooks. 19 static rules that never execute your code, plus an LLM second pass that cannot overrule a high-confidence rule. Published as an agent skill on Agensi.</p>
+      <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python" /> <img src="https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=2dd4bf" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Agent%20Skill-0f172a?style=flat-square&logo=anthropic&logoColor=818cf8" alt="Agent Skill" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
     </td>
   </tr>
 </table>
@@ -190,13 +197,14 @@ class MuhammadWaqas:
 </details>
 
 <details>
-<summary><b>⚡ Agentic AI, MLOps & Analytics</b> &nbsp;·&nbsp; 7 repos</summary>
+<summary><b>⚡ Agentic AI, MLOps & Analytics</b> &nbsp;·&nbsp; 8 repos</summary>
 <br/>
 
 | Project | What it does |
 |---|---|
 | [spacemolt-autonomous-fleet](https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet) | LLM coordinator + mining and trading agents over A2A, playing a live MMO through MCP with crash-safe memory |
 | [research-experiment-manager](https://github.com/muhammadwaqas1564/research-experiment-manager) | Agentic ML experiment registry: metric recovery, baseline comparison, next-run proposals |
+| [ml-experiment-reviewer](https://github.com/muhammadwaqas1564/ml-experiment-reviewer) | Reviews ML scripts and notebooks for data leakage, contamination and misleading metrics; ranked report with fixes |
 | [Agentic-AI-Course](https://github.com/muhammadwaqas1564/Agentic-AI-Course) | Multi-agent and agentic workflow implementations |
 | [humaniflow-ai](https://github.com/muhammadwaqas1564/humaniflow-ai) | Human-in-the-loop orchestration and evaluation loops |
 | [MLAnalyzer-Pro](https://github.com/muhammadwaqas1564/MLAnalyzer-Pro) | Dataset profiling, feature importance, model validation |
