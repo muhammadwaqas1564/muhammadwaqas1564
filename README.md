@@ -73,12 +73,7 @@ class MuhammadWaqas:
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet">SpaceMolt Autonomous Fleet</a></h4>
-      <p>Multi-agent system that plays a live MMO: an LLM coordinator delegates to mining and trading agents over A2A, acts through authenticated MCP, and survives crashes without replaying a single action.</p>
-      <img src="https://img.shields.io/badge/A2A-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="A2A" /> <img src="https://img.shields.io/badge/MCP-0f172a?style=flat-square&logo=anthropic&logoColor=2dd4bf" alt="MCP" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h4><a href="https://github.com/muhammadwaqas1564/research-experiment-manager">Research Experiment Manager</a></h4>
       <p>Agentic assistant for ML experiments: recovers missing metrics from saved predictions, compares against a baseline and proposes the next run. The LLM ranks; Python computes every number.</p>
       <img src="https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=2dd4bf" alt="Streamlit" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" /> <img src="https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=2dd4bf" alt="SQLite" />
@@ -106,7 +101,12 @@ class MuhammadWaqas:
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet">SpaceMolt Autonomous Fleet</a></h4>
+      <p>Multi-agent system that plays a live MMO: an LLM coordinator delegates to mining and trading agents over A2A, acts through authenticated MCP, and survives crashes without replaying a single action.</p>
+      <img src="https://img.shields.io/badge/A2A-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="A2A" /> <img src="https://img.shields.io/badge/MCP-0f172a?style=flat-square&logo=anthropic&logoColor=2dd4bf" alt="MCP" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
+    </td>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/muhammadwaqas1564/ml-experiment-reviewer">ML Experiment Reviewer</a></h4>
       <p>Finds the bugs that silently inflate ML results: data leakage, train/test contamination, SMOTE before the split, misleading metrics and PyTorch mistakes, in scripts and notebooks. 19 static rules that never execute your code, plus an LLM second pass that cannot overrule a high-confidence rule.</p>
       <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python" /> <img src="https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=2dd4bf" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
@@ -218,7 +218,7 @@ class MuhammadWaqas:
 </details>
 
 <details>
-<summary><b>🧰 Agent Skills</b> &nbsp;·&nbsp; 3 repos</summary>
+<summary><b>🧰 Agent Skills</b> &nbsp;·&nbsp; 4 repos</summary>
 <br/>
 
 | Project | What it does |
@@ -226,16 +226,16 @@ class MuhammadWaqas:
 | [a2a-mcp-fleet-builder](https://github.com/muhammadwaqas1564/a2a-mcp-fleet-builder) | Generates a working A2A + MCP multi-agent project from a plain-language team description, with crash-safe jobs and tests |
 | [adaptive-ui-architect](https://github.com/muhammadwaqas1564/adaptive-ui-architect) | Builds and audits UI for web, dashboards, SwiftUI and Compose: industry tokens, 84 static rules, rendered browser checks |
 | [ml-experiment-reviewer](https://github.com/muhammadwaqas1564/ml-experiment-reviewer) | Reviews ML scripts and notebooks for data leakage, contamination and misleading metrics; ranked report with fixes |
+| [spacemolt-autonomous-fleet](https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet) | LLM coordinator + mining and trading agents over A2A, playing a live MMO through MCP with crash-safe memory |
 
 </details>
 
 <details>
-<summary><b>⚡ Agentic AI, MLOps & Analytics</b> &nbsp;·&nbsp; 7 repos</summary>
+<summary><b>⚡ Agentic AI, MLOps & Analytics</b> &nbsp;·&nbsp; 6 repos</summary>
 <br/>
 
 | Project | What it does |
 |---|---|
-| [spacemolt-autonomous-fleet](https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet) | LLM coordinator + mining and trading agents over A2A, playing a live MMO through MCP with crash-safe memory |
 | [research-experiment-manager](https://github.com/muhammadwaqas1564/research-experiment-manager) | Agentic ML experiment registry: metric recovery, baseline comparison, next-run proposals |
 | [Agentic-AI-Course](https://github.com/muhammadwaqas1564/Agentic-AI-Course) | Multi-agent and agentic workflow implementations |
 | [humaniflow-ai](https://github.com/muhammadwaqas1564/humaniflow-ai) | Human-in-the-loop orchestration and evaluation loops |
