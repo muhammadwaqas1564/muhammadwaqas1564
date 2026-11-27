@@ -85,7 +85,7 @@ class MuhammadWaqas:
 
 ## `agent_skills`
 
-<sub>Open-source skills for AI coding agents (Claude Code, Cursor, Codex CLI...), also published on Agensi.</sub>
+<sub>Open-source skills for AI coding agents (Claude Code, Cursor, Codex CLI...), all four published on the <a href="https://www.agensi.io">Agensi</a> marketplace.</sub>
 
 <table>
   <tr>
@@ -93,11 +93,13 @@ class MuhammadWaqas:
       <h4><a href="https://github.com/muhammadwaqas1564/a2a-mcp-fleet-builder">A2A + MCP Fleet Builder</a></h4>
       <p>Describe a team of agents and get a working multi-agent project: a coordinator and workers speaking A2A 1.0 with Agent Cards, tools over MCP (HTTP or stdio), task keys and a SQLite journal for crash-safe resume, a review loop, an offline fake world and end-to-end tests. Standard library only; tested both ways against the official A2A and MCP SDKs.</p>
       <img src="https://img.shields.io/badge/A2A-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="A2A" /> <img src="https://img.shields.io/badge/MCP-0f172a?style=flat-square&logo=anthropic&logoColor=2dd4bf" alt="MCP" /> <img src="https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=2dd4bf" alt="SQLite" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
+      <br/><a href="https://www.agensi.io/skills/a2a-mcp-fleet-builder"><img src="https://img.shields.io/badge/Install%20on-Agensi-2dd4bf?style=for-the-badge&labelColor=0f172a" alt="Install on Agensi" /></a>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/muhammadwaqas1564/adaptive-ui-architect">Adaptive UI Architect</a></h4>
       <p>Designs and builds distinctive, accessible UI for web, dashboards, SwiftUI and Jetpack Compose. Fast, balanced and studio modes, offline design tokens for 136 industries, and two audits before anything ships: 84 static rules plus a headless-browser pass for contrast, overflow, target size and focus.</p>
       <img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=2dd4bf" alt="Tailwind" /> <img src="https://img.shields.io/badge/SwiftUI-0f172a?style=flat-square&logo=swift&logoColor=818cf8" alt="SwiftUI" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-0f172a?style=flat-square&logo=jetpackcompose&logoColor=2dd4bf" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=818cf8" alt="Playwright" />
+      <br/><a href="https://www.agensi.io/skills/adaptive-ui-architect"><img src="https://img.shields.io/badge/Install%20on-Agensi-2dd4bf?style=for-the-badge&labelColor=0f172a" alt="Install on Agensi" /></a>
     </td>
   </tr>
   <tr>
@@ -105,11 +107,13 @@ class MuhammadWaqas:
       <h4><a href="https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet">SpaceMolt Autonomous Fleet</a></h4>
       <p>Multi-agent system that plays a live MMO: an LLM coordinator delegates to mining and trading agents over A2A, acts through authenticated MCP, and survives crashes without replaying a single action.</p>
       <img src="https://img.shields.io/badge/A2A-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="A2A" /> <img src="https://img.shields.io/badge/MCP-0f172a?style=flat-square&logo=anthropic&logoColor=2dd4bf" alt="MCP" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
+      <br/><a href="https://www.agensi.io/skills/spacemolt-autonomous-fleet"><img src="https://img.shields.io/badge/Install%20on-Agensi-2dd4bf?style=for-the-badge&labelColor=0f172a" alt="Install on Agensi" /></a>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/muhammadwaqas1564/ml-experiment-reviewer">ML Experiment Reviewer</a></h4>
       <p>Finds the bugs that silently inflate ML results: data leakage, train/test contamination, SMOTE before the split, misleading metrics and PyTorch mistakes, in scripts and notebooks. 19 static rules that never execute your code, plus an LLM second pass that cannot overrule a high-confidence rule.</p>
       <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python" /> <img src="https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=2dd4bf" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
+      <br/><a href="https://www.agensi.io/skills/ml-experiment-reviewer"><img src="https://img.shields.io/badge/Install%20on-Agensi-2dd4bf?style=for-the-badge&labelColor=0f172a" alt="Install on Agensi" /></a>
     </td>
   </tr>
 </table>
@@ -221,12 +225,12 @@ class MuhammadWaqas:
 <summary><b>🧰 Agent Skills</b> &nbsp;·&nbsp; 4 repos</summary>
 <br/>
 
-| Project | What it does |
-|---|---|
-| [a2a-mcp-fleet-builder](https://github.com/muhammadwaqas1564/a2a-mcp-fleet-builder) | Generates a working A2A + MCP multi-agent project from a plain-language team description, with crash-safe jobs and tests |
-| [adaptive-ui-architect](https://github.com/muhammadwaqas1564/adaptive-ui-architect) | Builds and audits UI for web, dashboards, SwiftUI and Compose: industry tokens, 84 static rules, rendered browser checks |
-| [ml-experiment-reviewer](https://github.com/muhammadwaqas1564/ml-experiment-reviewer) | Reviews ML scripts and notebooks for data leakage, contamination and misleading metrics; ranked report with fixes |
-| [spacemolt-autonomous-fleet](https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet) | LLM coordinator + mining and trading agents over A2A, playing a live MMO through MCP with crash-safe memory |
+| Project | What it does | Marketplace |
+|---|---|---|
+| [a2a-mcp-fleet-builder](https://github.com/muhammadwaqas1564/a2a-mcp-fleet-builder) | Generates a working A2A + MCP multi-agent project from a plain-language team description, with crash-safe jobs and tests | [Agensi](https://www.agensi.io/skills/a2a-mcp-fleet-builder) |
+| [adaptive-ui-architect](https://github.com/muhammadwaqas1564/adaptive-ui-architect) | Builds and audits UI for web, dashboards, SwiftUI and Compose: industry tokens, 84 static rules, rendered browser checks | [Agensi](https://www.agensi.io/skills/adaptive-ui-architect) |
+| [ml-experiment-reviewer](https://github.com/muhammadwaqas1564/ml-experiment-reviewer) | Reviews ML scripts and notebooks for data leakage, contamination and misleading metrics; ranked report with fixes | [Agensi](https://www.agensi.io/skills/ml-experiment-reviewer) |
+| [spacemolt-autonomous-fleet](https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet) | LLM coordinator + mining and trading agents over A2A, playing a live MMO through MCP with crash-safe memory | [Agensi](https://www.agensi.io/skills/spacemolt-autonomous-fleet) |
 
 </details>
 
