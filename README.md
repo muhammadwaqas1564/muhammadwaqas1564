@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/muhammadwaqas1564">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Building+AI+you+can+actually+verify;Explainable+AI+for+medical+imaging;Vision-language+models+%26+agentic+workflows;Edge+computer+vision+in+production;Catching+data+leakage+before+it+ships" alt="Muhammad Waqas builds explainable AI for medical imaging, vision-language models, agentic workflows and edge computer vision" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Building+AI+you+can+actually+verify;Explainable+AI+for+medical+imaging;Vision-language+models+%26+agentic+workflows;Edge+computer+vision+in+production;Catching+data+leakage+before+it+ships;Shipping+agent+skills+for+Claude%2C+Cursor+%26+Codex" alt="Muhammad Waqas builds explainable AI for medical imaging, vision-language models, agentic workflows and edge computer vision" />
   </a>
 </p>
 
@@ -84,11 +84,32 @@ class MuhammadWaqas:
       <img src="https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=2dd4bf" alt="Streamlit" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" /> <img src="https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=2dd4bf" alt="SQLite" />
     </td>
   </tr>
+</table>
+
+<br/>
+
+## `agent_skills`
+
+<sub>Open-source skills for AI coding agents (Claude Code, Cursor, Codex CLI...), also published on Agensi.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/muhammadwaqas1564/a2a-mcp-fleet-builder">A2A + MCP Fleet Builder</a></h4>
+      <p>Describe a team of agents and get a working multi-agent project: a coordinator and workers speaking A2A 1.0 with Agent Cards, tools over MCP (HTTP or stdio), task keys and a SQLite journal for crash-safe resume, a review loop, an offline fake world and end-to-end tests. Standard library only; tested both ways against the official A2A and MCP SDKs.</p>
+      <img src="https://img.shields.io/badge/A2A-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="A2A" /> <img src="https://img.shields.io/badge/MCP-0f172a?style=flat-square&logo=anthropic&logoColor=2dd4bf" alt="MCP" /> <img src="https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=2dd4bf" alt="SQLite" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/muhammadwaqas1564/adaptive-ui-architect">Adaptive UI Architect</a></h4>
+      <p>Designs and builds distinctive, accessible UI for web, dashboards, SwiftUI and Jetpack Compose. Fast, balanced and studio modes, offline design tokens for 136 industries, and two audits before anything ships: 84 static rules plus a headless-browser pass for contrast, overflow, target size and focus.</p>
+      <img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=2dd4bf" alt="Tailwind" /> <img src="https://img.shields.io/badge/SwiftUI-0f172a?style=flat-square&logo=swift&logoColor=818cf8" alt="SwiftUI" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-0f172a?style=flat-square&logo=jetpackcompose&logoColor=2dd4bf" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=818cf8" alt="Playwright" />
+    </td>
+  </tr>
   <tr>
     <td colspan="2" valign="top">
       <h4><a href="https://github.com/muhammadwaqas1564/ml-experiment-reviewer">ML Experiment Reviewer</a></h4>
-      <p>Finds the bugs that silently inflate ML results: data leakage, train/test contamination, SMOTE before the split, misleading metrics and PyTorch mistakes, in scripts and notebooks. 19 static rules that never execute your code, plus an LLM second pass that cannot overrule a high-confidence rule. Published as an agent skill on Agensi.</p>
-      <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python" /> <img src="https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=2dd4bf" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Agent%20Skill-0f172a?style=flat-square&logo=anthropic&logoColor=818cf8" alt="Agent Skill" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
+      <p>Finds the bugs that silently inflate ML results: data leakage, train/test contamination, SMOTE before the split, misleading metrics and PyTorch mistakes, in scripts and notebooks. 19 static rules that never execute your code, plus an LLM second pass that cannot overrule a high-confidence rule.</p>
+      <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python" /> <img src="https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=2dd4bf" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Groq-0f172a?style=flat-square&logo=lightning&logoColor=818cf8" alt="Groq" />
     </td>
   </tr>
 </table>
@@ -197,14 +218,25 @@ class MuhammadWaqas:
 </details>
 
 <details>
-<summary><b>⚡ Agentic AI, MLOps & Analytics</b> &nbsp;·&nbsp; 8 repos</summary>
+<summary><b>🧰 Agent Skills</b> &nbsp;·&nbsp; 3 repos</summary>
+<br/>
+
+| Project | What it does |
+|---|---|
+| [a2a-mcp-fleet-builder](https://github.com/muhammadwaqas1564/a2a-mcp-fleet-builder) | Generates a working A2A + MCP multi-agent project from a plain-language team description, with crash-safe jobs and tests |
+| [adaptive-ui-architect](https://github.com/muhammadwaqas1564/adaptive-ui-architect) | Builds and audits UI for web, dashboards, SwiftUI and Compose: industry tokens, 84 static rules, rendered browser checks |
+| [ml-experiment-reviewer](https://github.com/muhammadwaqas1564/ml-experiment-reviewer) | Reviews ML scripts and notebooks for data leakage, contamination and misleading metrics; ranked report with fixes |
+
+</details>
+
+<details>
+<summary><b>⚡ Agentic AI, MLOps & Analytics</b> &nbsp;·&nbsp; 7 repos</summary>
 <br/>
 
 | Project | What it does |
 |---|---|
 | [spacemolt-autonomous-fleet](https://github.com/muhammadwaqas1564/spacemolt-autonomous-fleet) | LLM coordinator + mining and trading agents over A2A, playing a live MMO through MCP with crash-safe memory |
 | [research-experiment-manager](https://github.com/muhammadwaqas1564/research-experiment-manager) | Agentic ML experiment registry: metric recovery, baseline comparison, next-run proposals |
-| [ml-experiment-reviewer](https://github.com/muhammadwaqas1564/ml-experiment-reviewer) | Reviews ML scripts and notebooks for data leakage, contamination and misleading metrics; ranked report with fixes |
 | [Agentic-AI-Course](https://github.com/muhammadwaqas1564/Agentic-AI-Course) | Multi-agent and agentic workflow implementations |
 | [humaniflow-ai](https://github.com/muhammadwaqas1564/humaniflow-ai) | Human-in-the-loop orchestration and evaluation loops |
 | [MLAnalyzer-Pro](https://github.com/muhammadwaqas1564/MLAnalyzer-Pro) | Dataset profiling, feature importance, model validation |
